@@ -1,6 +1,6 @@
 - 🧑‍💻 Olá, sou o Lucas e atualmente estou fazendo os cursos da Alura, onde busco ter um conhecimento amplo de programção.
 -  Estou interessado em aprender cada vez mais sobre diversos assuntos de programação de programação.
-- 📚 Atualmente estou aprendendo HTML e CSS.
+- 📚 Atualmente estou estudando HTML e CSS.
 - 🎯 Procuro colaborar na empresa Yup Chat onde atualmente estou estagiando TI, e busco desenvolver cada vez mais.
 - 📫 @lucasferreira__013
 - 😄 Pronouns: ...
