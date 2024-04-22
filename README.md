@@ -4,7 +4,7 @@
 - 🎯 Procuro colaborar na empresa Yup Chat onde atualmente estou estagiando TI, e busco desenvolver cada vez mais.
 - 📫 @lucasferreira__013
 - 😄 Pronouns: ...
-- 💭 Fun fact: Sempre quis mexer em computadores e tenho curisodade sobre as linguagens de programação, porém nunca tive oportunidade, hoje que tenho a oportunidade busco aprender e estar por dentro dos assuntos relacionados.
+- 💭 Fun fact: Desde de criança tenho a curiosidade de mexer em computadores e muita curisosidade sobre as linguagens de programação, porém nunca a tive oportunidade de ficar mais próximo, hoje que tenho a oportunidade busco aprender e estar por dentro dos assuntos relacionados a programção...
 
 <!---
 LucasFerreira92/LucasFerreira92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
