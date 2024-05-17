@@ -5,9 +5,3 @@
 - 📫 @lucasferreira__013
 - 😄 Pronouns: ...
 - 💭 Fun fact: Desde de criança tenho a curiosidade de mexer em computadores e muita curisosidade sobre as linguagens de programação, porém nunca a tive oportunidade de ficar mais próximo, hoje que tenho a oportunidade busco aprender e estar por dentro dos assuntos relacionados a programção...
-
-<div>
-  <a href="https://github.com/LucasFerreira92">
-  <img height="180em" src="https://github-readme-status.vercel.app/api?usarname=LucasFerreira92_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height=180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=LucasFerreira92&layout=compact&langs_count=16&theme=dark"/>
-</div>
