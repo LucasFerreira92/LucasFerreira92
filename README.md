@@ -6,7 +6,8 @@
 - 😄 Pronouns: ...
 - 💭 Fun fact: Desde de criança tenho a curiosidade de mexer em computadores e muita curisosidade sobre as linguagens de programação, porém nunca a tive oportunidade de ficar mais próximo, hoje que tenho a oportunidade busco aprender e estar por dentro dos assuntos relacionados a programção...
 
-<!---
-LucasFerreira92/LucasFerreira92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href="https://github.com/LucasFerreira92">
+  <img height="180em" src="https://github-readme-status.vercel.app/api?usarname=lucasferreira92_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height=180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=lucasferreira92&layout=compact&langs_count=16&theme=dracula"/>
+</div>
