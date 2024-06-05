@@ -8,6 +8,6 @@
 
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFerreira92&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFerreira92&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFerreira92&show_icons=true&theme=black" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFerreira92&layout=compact&theme=black" />
 </div>
